@@ -1,0 +1,9 @@
+C:\Users\luzma\OneDrive - Facultad de Ingeniería de la Universidad de San Carlos de Guatemala\Escritorio\UNIVERSIDAD\Programación 2\201902485_Tarea3\Casa Cambios\Casa Cambios\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\luzma\OneDrive - Facultad de Ingeniería de la Universidad de San Carlos de Guatemala\Escritorio\UNIVERSIDAD\Programación 2\201902485_Tarea3\Casa Cambios\Casa Cambios\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\luzma\OneDrive - Facultad de Ingeniería de la Universidad de San Carlos de Guatemala\Escritorio\UNIVERSIDAD\Programación 2\201902485_Tarea3\Casa Cambios\Casa Cambios\obj\x86\Debug\Casa Cambios.vbproj.GenerateResource.Cache
+C:\Users\rudyl_jt2jog0\OneDrive\Documentos\Programacion de computadoras 2\201900163_Tarea3\201902485_Tarea3\201902485_Tarea3\Casa Cambios\Casa Cambios\obj\x86\Debug\Casa Cambios.vbproj.AssemblyReference.cache
+C:\Users\rudyl_jt2jog0\OneDrive\Documentos\Programacion de computadoras 2\201900163_Tarea3\201902485_Tarea3\201902485_Tarea3\Casa Cambios\Casa Cambios\obj\x86\Debug\Casa Cambios.vbproj.SuggestedBindingRedirects.cache
+C:\Users\rudyl_jt2jog0\OneDrive\Documentos\Programacion de computadoras 2\201900163_Tarea3\201902485_Tarea3\201902485_Tarea3\Casa Cambios\Casa Cambios\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\rudyl_jt2jog0\OneDrive\Documentos\Programacion de computadoras 2\201900163_Tarea3\201902485_Tarea3\201902485_Tarea3\Casa Cambios\Casa Cambios\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\rudyl_jt2jog0\OneDrive\Documentos\Programacion de computadoras 2\201900163_Tarea3\201902485_Tarea3\201902485_Tarea3\Casa Cambios\Casa Cambios\obj\x86\Debug\Casa Cambios.vbproj.GenerateResource.cache
+C:\Users\rudyl_jt2jog0\OneDrive\Documentos\Programacion de computadoras 2\201900163_Tarea3\201902485_Tarea3\201902485_Tarea3\Casa Cambios\Casa Cambios\obj\x86\Debug\Casa Cambios.vbproj.CoreCompileInputs.cache
