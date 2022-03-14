@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "201900163_IDIOMAS", "201900163_IDIOMAS.vbproj", "{D5ACCCA0-2C1E-44B3-AAF6-2B425A34551F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5ACCCA0-2C1E-44B3-AAF6-2B425A34551F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5ACCCA0-2C1E-44B3-AAF6-2B425A34551F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5ACCCA0-2C1E-44B3-AAF6-2B425A34551F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5ACCCA0-2C1E-44B3-AAF6-2B425A34551F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AD17918-B000-463A-A061-D7AE5A7FC224}
+	EndGlobalSection
+EndGlobal
