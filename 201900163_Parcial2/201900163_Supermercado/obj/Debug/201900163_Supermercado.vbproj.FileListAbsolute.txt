@@ -1,0 +1,6 @@
+C:\Users\rudyl_jt2jog0\OneDrive\Documentos\Programacion de computadoras 2\201900163_TAREA5\201900163_Supermercado\obj\Debug\201900163_Supermercado.vbproj.AssemblyReference.cache
+C:\Users\rudyl_jt2jog0\OneDrive\Documentos\Programacion de computadoras 2\201900163_TAREA5\201900163_Supermercado\obj\Debug\201900163_Supermercado.vbproj.SuggestedBindingRedirects.cache
+C:\Users\rudyl_jt2jog0\OneDrive\Documentos\Programacion de computadoras 2\201900163_TAREA5\201900163_Supermercado\obj\Debug\_201900163_Supermercado.Form1.resources
+C:\Users\rudyl_jt2jog0\OneDrive\Documentos\Programacion de computadoras 2\201900163_TAREA5\201900163_Supermercado\obj\Debug\_201900163_Supermercado.Resources.resources
+C:\Users\rudyl_jt2jog0\OneDrive\Documentos\Programacion de computadoras 2\201900163_TAREA5\201900163_Supermercado\obj\Debug\201900163_Supermercado.vbproj.GenerateResource.cache
+C:\Users\rudyl_jt2jog0\OneDrive\Documentos\Programacion de computadoras 2\201900163_TAREA5\201900163_Supermercado\obj\Debug\201900163_Supermercado.vbproj.CoreCompileInputs.cache
